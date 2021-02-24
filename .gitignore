@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/Yak2D_Android_Test/v16
+/TestApp/bin/Debug
+/TestApp/obj
+/Yak2D.Droid/.vs/Yak2D.Droid/v16
+/Yak2D.Droid/bin/Debug
+/Yak2D.Droid/obj
